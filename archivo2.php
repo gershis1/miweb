@@ -1,3 +1,4 @@
 <?php
-    echo 'chanchito feliz';
+    echo 'Chanchito feliz';
+    echo 'Otro chanchito feliz';
 ?>
